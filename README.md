@@ -152,15 +152,7 @@ Site desenvolvido de forma indie
 🔹 CSS  
 🔹 JavaScript 
 
-<a href="https://astronomiainfinite.netlify.app">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
-</a>
 
-<p align="center">
-  <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822" />
-</p>
-
----
 
 # 🏆 Conquistas
 
