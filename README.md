@@ -1,4 +1,4 @@
-<h1 align="center">OEai, eu sou Walter prestes 👋</h1>
+<h1 align="center">Eai, eu sou Walter prestes 👋</h1>
 
 <p align="center">
   <em>Desenvolvedor de Sistemas • Java Developer • Flutter Mobile Dev</em>
@@ -39,9 +39,9 @@
 # 💫 Sobre Mim
 
 ```java
-public class RaphaelCampos {
+public class WALWAL{
 
-    String nome = "Raphael Campos Squilaro";
+    String nome = "Walter";
     int idade = 17;
     String escolaridade = "Ensino Médio Incompleto - Atualmente cursando o terceiro ensino médio e Desenvolvimento de Sistema - Senai";
 
