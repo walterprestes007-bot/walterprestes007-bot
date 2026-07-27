@@ -37,8 +37,7 @@
 ---
 
 # 💫 Sobre Mim
-
-```java
+java
 public class WALWAL{
 
     String nome = "Walter";
@@ -58,7 +57,6 @@ public class WALWAL{
 
     String objetivo = "Me tornar um desenvolvedor full stack e mobile de alto nível.";
 }
-```
 
 ---
 
@@ -86,8 +84,7 @@ public class WALWAL{
 
 - Spring Boot
 - APIs REST
-- Python Automation
-- Flutter Avançado
+- Flutter 
 - Estruturas de Dados
 - Clean Code
 
