@@ -184,13 +184,6 @@ Site desenvolvido de forma indie
 
 ---
 
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=github-dark&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
-</p>
-
----
 
 
 <p align="center">
