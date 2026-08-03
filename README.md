@@ -69,7 +69,7 @@ public class WalterPrestes {
 <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
 <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
