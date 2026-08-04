@@ -1,18 +1,18 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=230&section=header&text=Walter%20Prestes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20•%20Flutter%20Developer%20•%20Future%20Full%20Stack&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=230&section=header&text=Walter%20Prestes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20•%20Flutter%20Developer%20•%20Future%20Full%20Stack&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=👋+Eai,+eu+sou+Walter+Prestes;☕+Java+Developer;📱+Flutter+Mobile+Developer;🤖+Python+Automation+Student;🚀+Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=👋+Eai,+eu+sou+Walter+Prestes;☕+Java+Developer;📱+Flutter+Mobile+Developer;🤖+Python+Automation+Student;🚀+Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-00C853?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-00C853?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-00C853?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-00C853?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-8A2BE2?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -53,71 +53,6 @@ public class WalterPrestes {
     String objetivo =
         "Me tornar um Desenvolvedor Full Stack e Mobile de alto nível.";
 }
-```
-
----
-
-# 🌐 Redes Sociais
-
-<p align="center">
-
-<a href="https://github.com/walterprestes007-bot">
-<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-">
-<img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,python,html,css,js,mysql,git,github,vscode,idea,figma" />
-</p>
-
----
-
-# 🧠 Conhecimentos
-
-- ☕ Desenvolvimento Java
-- 🌱 Spring Boot
-- 🏗️ Arquitetura MVC
-- 📱 Desenvolvimento Mobile com Flutter
-- 🌐 HTML, CSS e JavaScript
-- 🤖 Automação com Python
-- 🗄️ Banco de Dados MySQL
-- 🔧 Git & GitHub
-
----
-
-# 📚 Atualmente Estudando
-
-- ☕ Spring Boot
-- 🌐 APIs REST
-- 📱 Flutter
-- 📊 Estruturas de Dados
-- 🧹 Clean Code
-
----
-
-# 🎯 Objetivo Profissional
-
-Busco minha primeira oportunidade como desenvolvedor para evoluir profissionalmente, adquirir experiência prática e contribuir com projetos reais. Meu objetivo é construir soluções modernas, eficientes e continuar aprendendo novas tecnologias todos os dias.
-
----
-
-> 💚 **"Transformando ideias em código e aprendizado em resultados."**
-
-
-
 ---
 
 # 🛤️ Minha Jornada
@@ -174,11 +109,11 @@ Sistema desktop desenvolvido utilizando a arquitetura MVC.
 <p align="center">
 
 <a href="LINK_DO_REPOSITORIO">
-<img src="https://img.shields.io/badge/💻%20Código-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻%20Código-8A2BE2?style=for-the-badge">
 </a>
 
 <a href="LINK_DO_PROJETO">
-<img src="https://img.shields.io/badge/🚀%20Projeto-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20Projeto-8A2BE2?style=for-the-badge">
 </a>
 
 </p>
@@ -204,11 +139,11 @@ Aplicativo desenvolvido utilizando Flutter com interface moderna e responsiva.
 <p align="center">
 
 <a href="LINK_DO_REPOSITORIO">
-<img src="https://img.shields.io/badge/💻%20Código-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻%20Código-8A2BE2?style=for-the-badge">
 </a>
 
 <a href="LINK_DO_PROJETO">
-<img src="https://img.shields.io/badge/📱%20Aplicativo-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/📱%20Aplicativo-8A2BE2?style=for-the-badge">
 </a>
 
 </p>
@@ -273,11 +208,11 @@ Projetos criados utilizando HTML, CSS e JavaScript.
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api?username=walterprestes007-bot&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
+src="https://github-readme-stats.vercel.app/api?username=walterprestes007-bot&show_icons=true&theme=github_dark&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterprestes007-bot&layout=compact&hide_border=true&theme=github_dark&title_color=00ff99&text_color=ffffff"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterprestes007-bot&layout=compact&hide_border=true&theme=github_dark&title_color=A855F7&text_color=ffffff"/>
 
 </p>
 
@@ -287,7 +222,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=walterprestes007-bot&theme=github-dark&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
+<img src="https://streak-stats.demolab.com?user=walterprestes007-bot&theme=github-dark&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 
 </p>
 
@@ -297,7 +232,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=walterprestes007-bot&theme=github-compact&hide_border=true&color=00ff99&line=00ff99&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=walterprestes007-bot&theme=github-compact&hide_border=true&color=A855F7&line=A855F7&point=ffffff"/>
 
 </p>
 
@@ -313,14 +248,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 ---
 
-
----
-
 # 🎧 Tocando Agora
 
 <p align="center">
 
 <a href="https://open.spotify.com/intl-pt/">
+
 <img src="https://novatorem.vercel.app/api/spotify"/>
 
 </a>
@@ -351,6 +284,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 ```text
 ☀️ Estudo Java
+
 ☀️ Spring Boot
 
 🌇 Desenvolvimento Web
@@ -402,7 +336,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=walterprestes007-bot&label=Visualizações&color=00ff99&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=walterprestes007-bot&label=Visualizações&color=A855F7&style=flat"/>
 
 </p>
 
@@ -415,7 +349,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walterprestes007-bot&theme=github_dark"/>
 
 </p>
-
 ---
 
 # 💡 Curiosidades
@@ -446,7 +379,7 @@ while (alive) {
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+## ⭐ Obrigado por visitar meu perfil!
 
 Se gostou dos meus projetos, não esqueça de deixar uma ⭐ nos repositórios.
 
@@ -458,6 +391,6 @@ Se gostou dos meus projetos, não esqueça de deixar uma ⭐ nos repositórios.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer"/>
 
 </p>
