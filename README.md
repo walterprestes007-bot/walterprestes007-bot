@@ -448,7 +448,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 </div>
 
-> ⚠️ É necessário configurar um **GitHub Action** para gerar automaticamente a animação da cobrinha.
+
 
 ---
 
@@ -502,7 +502,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterpreste
 
 </div>
 
-> ⚠️ **Observação:** Para esse card funcionar é necessário configurar o **Novatorem** com sua conta do Spotify.
+.
 
 ---
 
